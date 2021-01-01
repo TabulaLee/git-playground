@@ -1,2 +1,3 @@
 # git-playground
-git study example2
+
+깃으로 놀아보자!
